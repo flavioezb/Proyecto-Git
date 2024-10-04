@@ -1,2 +1,0 @@
-# Proyecto-Git
-Diplomatura UTN
